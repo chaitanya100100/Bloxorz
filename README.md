@@ -56,21 +56,18 @@ A 3D game implemented in C++ using OpenGL 3.0 . It is similar to : https://www.m
 1. Vericle View
     - Shows Orthographic view of the world from upside.
     - No Camera movement.
-
     - No other Controls
 
 
 2. Tower View
     - Shows Perspective view from side upper point.
     - No Camera movement.
-
     - No other Controls
 
 3. Helicopter View
     - Shows Perspective view starting from the current position.
     - Camera position can be controlled by 6 keys. (movements : left, right, up, down, in, out)
     - Camere orientation can be controlled by other 4 keys. (movements : left, right, up, down)
-
     - Controls
         - A, W, S, D : For camera movement.
         - I, J, K, L : For Camera orientation.
@@ -80,7 +77,6 @@ A 3D game implemented in C++ using OpenGL 3.0 . It is similar to : https://www.m
     - Most classic and default view of my game.
     - Shows block from little above of it and camera moves with block.
     - Camera movement is smooth with block movement. (Animated movement)
-
     - No other Controls
 
 
@@ -88,7 +84,6 @@ A 3D game implemented in C++ using OpenGL 3.0 . It is similar to : https://www.m
     - Perspective view controlled by mouse.
     - Camera orientation can be controlled by drag and drop. (movements : left, right, up, down)
     - Camera zoom can be controlled by scrolling. (movements: in, out)
-
     - Controls
         - Mouse left click and drag : For camera orientation.
         - Mouse scroll in and out : For camera zoom in and out.
@@ -99,7 +94,6 @@ A 3D game implemented in C++ using OpenGL 3.0 . It is similar to : https://www.m
     - Keep rotating camera according to cursor postion.
     - Camera position can be controlled by 6 keys. (movements : left, right, up, down, in, out)
     - This view is not for playing. It is just for observing.
-
     - Controls
         - Mouse scroll in and out : For camera zoom in and out.
         - A, W, S, D : For camera movement.
