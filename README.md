@@ -1,10 +1,10 @@
 # Bloxorz
 A 3D game implemented in C++ using OpenGL 3.0 . It is similar to : https://www.miniclip.com/games/bloxorz/en/
 
-## COMPILE
+## Compile
 - Compile using simple 'make'
 
-## RUN
+## Run
 - Run using './a.out'
 
 ## Dependencies
@@ -14,13 +14,13 @@ A 3D game implemented in C++ using OpenGL 3.0 . It is similar to : https://www.m
 	- GLM
 - Change include headers in ![headers.h](/code/headers.h) if needed.
 
-## ABOUT THE GAME
+## About The Game
 - Take block to target postion defined by a hole. Stand vertically on hole to complete stage.
 - You can't stand vertically on orange tiles.
 - Light green tiles are normal bridge switches. Normal bridges can be opened by placing block on the switches.
 - Dark green tiles are heavy bridge switches. Heavy bridges can be opened by placing block VERTICALLY on the switches.
 
-## MAIN FEATURES
+## Main Features
 - Scope of developing multiple levels. Just need to add more data files describing levels. Levels can be changed by changing 'level' variable in main.cpp file.
 - Smooth Animated movements of block and camera.
 - Map of world at bottom-left corner.
@@ -32,7 +32,7 @@ A 3D game implemented in C++ using OpenGL 3.0 . It is similar to : https://www.m
 - Multiple Camera Views. (Described below)
 
 
-## CONTROLS
+## Controls
 
 ### Movement
 - Arrow Keys : For up, down, left, right movements of block.
