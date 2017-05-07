@@ -100,7 +100,7 @@ A 3D game implemented in C++ using OpenGL 3.0 . It is similar to : https://www.m
         - T, G       : For Camera zoom in, out.
 
 
-### Scope of Improvement
+## Scope of Improvement
 - Add more levels, Just need to create data files in data directory
 - Connect levels with each other i.e. sequence of levels
 - Display scoreboard on the display
