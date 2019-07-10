@@ -1,6 +1,8 @@
 # Bloxorz
 A 3D game implemented in C++ using OpenGL 3.0 . It is similar to : https://www.miniclip.com/games/bloxorz/en/
 
+![bloxorz demo](demo/bloxorz.gif)
+
 ## Compile
 - Compile using simple 'make'
 
